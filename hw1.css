@@ -1,0 +1,21 @@
+h1{
+  color : #910002;
+  background-color : #6B9100; 
+   font-variant: small-caps;
+}
+nav{
+  font-style : italic;
+  background-color : #8C968F ;
+}
+a{
+  color :#141005 ;
+}
+h2{
+  color : #17210C;
+}
+section{
+  background-color : #5E5E5C ;
+}
+aside{
+  display: none;
+}
